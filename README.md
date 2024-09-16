@@ -2,9 +2,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk3enExcTlmZTQxeTN4NjhvaTZmaTBtc2o4Z2lhMjBlbnVxMHlvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="300"/>
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/lara-manestar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://x.com/manestarlara">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
