@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk3enExcTlmZTQxeTN4NjhvaTZmaTBtc2o4Z2lhMjBlbnVxMHlvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="300"/>
 </div>
 <div align="center">
-  <a href="https://x.com/manestarlara">
+  <a href="https://x.com/mnstrlara">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
@@ -43,4 +43,4 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manestarlara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnstrlara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
